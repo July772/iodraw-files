@@ -134,6 +134,9 @@
         <mxCell id="Kl-fcBg2YwkoOnQj_eca-3" value="是否超限" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="640" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Kl-fcBg2YwkoOnQj_eca-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kl-fcBg2YwkoOnQj_eca-8" target="2VqeegS6OwMfhBa1wg1C-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Kl-fcBg2YwkoOnQj_eca-8" value="预警处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="720" width="80" height="40" as="geometry" />
         </mxCell>
