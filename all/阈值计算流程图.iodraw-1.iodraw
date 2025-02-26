@@ -110,7 +110,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Kl-fcBg2YwkoOnQj_eca-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kl-fcBg2YwkoOnQj_eca-1" target="2VqeegS6OwMfhBa1wg1C-42">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="735" />
+              <mxPoint x="240" y="670" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Kl-fcBg2YwkoOnQj_eca-1" value="继续监测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="720" width="60" height="30" as="geometry" />
