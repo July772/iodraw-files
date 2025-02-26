@@ -62,8 +62,8 @@
         <mxCell id="2VqeegS6OwMfhBa1wg1C-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2VqeegS6OwMfhBa1wg1C-15" target="2VqeegS6OwMfhBa1wg1C-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="480" y="610" />
-              <mxPoint x="360" y="610" />
+              <mxPoint x="480" y="620" />
+              <mxPoint x="360" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -83,6 +83,9 @@
         </mxCell>
         <mxCell id="2VqeegS6OwMfhBa1wg1C-36" value="预警阈值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2VqeegS6OwMfhBa1wg1C-39" value="预警阈值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="720" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
