@@ -16,8 +16,8 @@
         <mxCell id="2VqeegS6OwMfhBa1wg1C-6" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="290" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2VqeegS6OwMfhBa1wg1C-7" value="数据预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="300" width="80" height="40" as="geometry" />
+        <mxCell id="2VqeegS6OwMfhBa1wg1C-7" value="稳态提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="360" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
