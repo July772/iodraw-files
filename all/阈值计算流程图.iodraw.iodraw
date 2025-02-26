@@ -5,10 +5,10 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="SZly5bDqRv6HhnI73mFc-0" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="560" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="320" y="70" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2VqeegS6OwMfhBa1wg1C-4" value="读取数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="160" width="80" height="40" as="geometry" />
+          <mxGeometry x="320" y="150" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
