@@ -104,10 +104,10 @@
           <mxGeometry x="200" y="560" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2VqeegS6OwMfhBa1wg1C-48" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="760" width="80" height="40" as="geometry" />
+          <mxGeometry x="320" y="780" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Kl-fcBg2YwkoOnQj_eca-1" value="继续监测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="700" width="80" height="40" as="geometry" />
+          <mxGeometry x="320" y="710" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Kl-fcBg2YwkoOnQj_eca-3" value="正态性检验" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="640" width="80" height="50" as="geometry" />
