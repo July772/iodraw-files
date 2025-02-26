@@ -107,8 +107,8 @@
         <mxCell id="2VqeegS6OwMfhBa1wg1C-42" value="动态更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="680" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2VqeegS6OwMfhBa1wg1C-48" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="510" width="80" height="40" as="geometry" />
+        <mxCell id="2VqeegS6OwMfhBa1wg1C-48" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="800" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
