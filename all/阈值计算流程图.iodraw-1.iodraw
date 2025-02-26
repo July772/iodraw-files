@@ -85,13 +85,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2VqeegS6OwMfhBa1wg1C-36" value="预警阈值" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="520" width="60" height="40" as="geometry" />
+          <mxGeometry x="330" y="520" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Kl-fcBg2YwkoOnQj_eca-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2VqeegS6OwMfhBa1wg1C-39" target="Kl-fcBg2YwkoOnQj_eca-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2VqeegS6OwMfhBa1wg1C-39" value="实时比较" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="580" width="60" height="40" as="geometry" />
+          <mxGeometry x="320" y="580" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Kl-fcBg2YwkoOnQj_eca-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2VqeegS6OwMfhBa1wg1C-42" target="2VqeegS6OwMfhBa1wg1C-36">
           <mxGeometry relative="1" as="geometry">
@@ -101,10 +101,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2VqeegS6OwMfhBa1wg1C-42" value="动态更新" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="200" y="640" width="60" height="40" as="geometry" />
+          <mxGeometry x="200" y="640" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2VqeegS6OwMfhBa1wg1C-48" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="800" width="60" height="40" as="geometry" />
+          <mxGeometry x="320" y="800" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Kl-fcBg2YwkoOnQj_eca-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kl-fcBg2YwkoOnQj_eca-1" target="2VqeegS6OwMfhBa1wg1C-48">
           <mxGeometry relative="1" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Kl-fcBg2YwkoOnQj_eca-1" value="继续监测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="720" width="60" height="40" as="geometry" />
+          <mxGeometry x="320" y="720" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Kl-fcBg2YwkoOnQj_eca-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Kl-fcBg2YwkoOnQj_eca-3" target="Kl-fcBg2YwkoOnQj_eca-1">
           <mxGeometry relative="1" as="geometry" />
@@ -143,7 +143,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Kl-fcBg2YwkoOnQj_eca-8" value="预警处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="720" width="60" height="40" as="geometry" />
+          <mxGeometry x="420" y="720" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
