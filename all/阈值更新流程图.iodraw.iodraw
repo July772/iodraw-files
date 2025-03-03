@@ -102,7 +102,7 @@
         <mxCell id="cIpIAvzaw0liNTFRjSC7-21" value="实时阈值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="560" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cIpIAvzaw0liNTFRjSC7-27" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cIpIAvzaw0liNTFRjSC7-27" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="640" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
