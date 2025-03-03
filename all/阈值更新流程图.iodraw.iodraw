@@ -89,10 +89,14 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="150" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="440" y="320" />
-              <mxPoint x="220" y="320" />
+              <mxPoint x="220" y="540" />
               <mxPoint x="220" y="100" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cIpIAvzaw0liNTFRjSC7-26" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cIpIAvzaw0liNTFRjSC7-25">
+          <mxGeometry x="-0.0008" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cIpIAvzaw0liNTFRjSC7-21" value="实时阈值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
