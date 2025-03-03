@@ -41,6 +41,14 @@
         <mxCell id="cIpIAvzaw0liNTFRjSC7-5" value="正态性检验" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="240" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="cIpIAvzaw0liNTFRjSC7-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cIpIAvzaw0liNTFRjSC7-6" target="cIpIAvzaw0liNTFRjSC7-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="340" />
+              <mxPoint x="440" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cIpIAvzaw0liNTFRjSC7-6" value="3σ阈值法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="280" width="80" height="40" as="geometry" />
         </mxCell>
