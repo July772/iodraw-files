@@ -22,6 +22,9 @@
         <mxCell id="cIpIAvzaw0liNTFRjSC7-2" value="周期阈值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="360" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="cIpIAvzaw0liNTFRjSC7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cIpIAvzaw0liNTFRjSC7-3" target="cIpIAvzaw0liNTFRjSC7-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cIpIAvzaw0liNTFRjSC7-3" value="阈值融合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="440" width="80" height="40" as="geometry" />
         </mxCell>
@@ -81,6 +84,11 @@
         </mxCell>
         <mxCell id="cIpIAvzaw0liNTFRjSC7-14" value="历史阈值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cIpIAvzaw0liNTFRjSC7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cIpIAvzaw0liNTFRjSC7-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="cIpIAvzaw0liNTFRjSC7-21" value="实时阈值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="520" width="80" height="40" as="geometry" />
