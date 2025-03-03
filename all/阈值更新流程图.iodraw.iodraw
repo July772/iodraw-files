@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cIpIAvzaw0liNTFRjSC7-3" value="阈值融合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="440" width="80" height="40" as="geometry" />
+          <mxGeometry x="400" y="460" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cIpIAvzaw0liNTFRjSC7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cIpIAvzaw0liNTFRjSC7-5" target="cIpIAvzaw0liNTFRjSC7-6">
           <mxGeometry relative="1" as="geometry" />
@@ -94,7 +94,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cIpIAvzaw0liNTFRjSC7-26" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cIpIAvzaw0liNTFRjSC7-25">
+        <mxCell id="cIpIAvzaw0liNTFRjSC7-26" value="更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cIpIAvzaw0liNTFRjSC7-25">
           <mxGeometry x="-0.0008" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
